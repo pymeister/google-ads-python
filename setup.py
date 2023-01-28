@@ -25,7 +25,7 @@ install_requires = [
     # have the same version range.
     "grpcio >= 1.38.1, < 2.0.0",
     "grpcio-status >= 1.38.1, < 2.0.0",
-    "proto-plus == 1.22.1",
+    "proto-plus >= 1.22.1, < 1.23",
     "PyYAML >= 5.1, < 7.0",
     "setuptools >= 40.3.0",
     "protobuf >= 4.21.5",
